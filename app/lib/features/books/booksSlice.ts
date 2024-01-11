@@ -20,7 +20,7 @@ const booksSlice = createSlice({
       state.books = action.payload;
     },
     addBook: (state, action: PayloadAction<Book>) => {
-      state.books.push(action.payload);
+      state.books.unshift(action.payload);
     },
     editBook: (state, action: PayloadAction<{ id: string; updatedBook: Book }>) => {
       const { id, updatedBook } = action.payload;
