@@ -1,5 +1,17 @@
-## Next.js App Router Course - Starter
+## Blazesoft Frontend Developer Test
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the work for the Blazesoft Frontend Developer Test.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Domain: https://blazesoft-test.vercel.app/
+
+## Total hours of work: 3 hours
+
+## Installation
+```npm install```
+
+## Run
+```npm run dev```
+
+## Test
+```npm run test```
+
