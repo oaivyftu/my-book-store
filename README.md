@@ -1,6 +1,4 @@
-## Blazesoft Frontend Developer Test
-
-This is the work for the Blazesoft Frontend Developer Test.
+## My book store
 
 ## Domain: https://blazesoft-test.vercel.app/
 
